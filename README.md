@@ -44,3 +44,9 @@ Contact info for the NGO (email, phone, social media links).
 A call-to-action: “Join us in building a drug-free future!.
 
 https://github.com/user-attachments/assets/185ed2b7-8b03-49a6-bcd6-4980f4161ade
+
+
+### Team Members
+1. Odushile Omodolapo - HTML Lead, CSS Designer Content Writer
+2. Adeboye AbdulMalik - Quality checker
+3. Adeleke Kehinde - Quality Checker HTML (Contributor)
