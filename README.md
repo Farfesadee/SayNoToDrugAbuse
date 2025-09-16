@@ -23,7 +23,7 @@ A bold slogan (“Your Future is Greater than Drugs”).
 ## Awareness
 This id the awareness section that highlights some few dangers of drug abuse.
 
-https://github.com/user-attachments/assets/781b951c-b742-4def-b8af-2e3a3f84aa8e"
+<img width="717" height="238" alt="Image" src="https://github.com/user-attachments/assets/781b951c-b742-4def-b8af-2e3a3f84aa8e" />
 
 
 ## Alternatives
