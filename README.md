@@ -29,7 +29,7 @@ This id the awareness section that highlights some few dangers of drug abuse.
 ## Alternatives
 A list of at least 5 positive/alternate activities young people can do instead of drugs. 
 
-https://github.com/user-attachments/assets/95819526-fb04-4020-b658-b6bca006520e
+<img width="709" height="197" alt="Image" src="https://github.com/user-attachments/assets/95819526-fb04-4020-b658-b6bca006520e" />
 
 
 ## Testimony
