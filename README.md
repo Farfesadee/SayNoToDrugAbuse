@@ -17,8 +17,7 @@ This is the Header Section which has the campaign title and slogan
 Campaign title (“Say No to Drugs”).  
 A bold slogan (“Your Future is Greater than Drugs”).  
 
-https://github.com/user-attachments/assets/615b311f-cb22-4f81-b095-51b7f3c8e127
-
+<img width="699" height="358" alt="Image" src="https://github.com/user-attachments/assets/615b311f-cb22-4f81-b095-51b7f3c8e127" />
 
 
 ## Awareness
