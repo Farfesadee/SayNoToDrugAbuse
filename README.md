@@ -42,7 +42,7 @@ A testimony from a once drug addict.
 Contact info for the NGO (email, phone, social media links).  
 A call-to-action: “Join us in building a drug-free future!.
 
-https://github.com/user-attachments/assets/185ed2b7-8b03-49a6-bcd6-4980f4161ade
+<img width="711" height="329" alt="Image" src="https://github.com/user-attachments/assets/185ed2b7-8b03-49a6-bcd6-4980f4161ade" />
 
 
 ### Team Members
