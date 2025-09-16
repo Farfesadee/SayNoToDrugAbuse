@@ -35,7 +35,7 @@ A list of at least 5 positive/alternate activities young people can do instead o
 ## Testimony
 A testimony from a once drug addict.
 
-https://github.com/user-attachments/assets/eccf5fd9-df5a-4906-89aa-79a2f48dfb05
+<img width="709" height="158" alt="Image" src="https://github.com/user-attachments/assets/eccf5fd9-df5a-4906-89aa-79a2f48dfb05" />
 
 
 ## Join Us
