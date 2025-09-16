@@ -9,7 +9,7 @@ They’ve reached out to your team to design and build this awareness website us
 ## Navigation
 Navigation bars for easy and fast access to all headers.
 
-https://github.com/user-attachments/assets/f91e7645-4436-45d2-a8ae-6a756c9efdaf
+<img width="950" height="56" alt="Image" src="https://github.com/user-attachments/assets/f91e7645-4436-45d2-a8ae-6a756c9efdaf" />
 
 
 ## Header
